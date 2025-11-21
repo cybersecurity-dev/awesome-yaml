@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://wikipedia.org/wiki/YAML">
+      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/YAML_Logo.svg" />
+    </a>
+</p>
+
 # Awesome [YAML](https://yaml.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
