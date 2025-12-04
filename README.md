@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome [YAML](https://yaml.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [YAML](https://yaml.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.redhat.com/en/topics/automation/what-is-yaml)
